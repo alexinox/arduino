@@ -1,12 +1,8 @@
 Arduino
 ========
 
-* Arduino is an open-source physical computing platform based on a simple I/O
-board and a development environment that implements the Processing/Wiring
-language. Arduino can be used to develop stand-alone interactive objects or
-can be connected to software on your computer (e.g. Flash, Processing and MaxMSP).
-The boards can be assembled by hand or purchased preassembled; the open-source
-IDE can be downloaded for free at https://www.arduino.cc/en/Main/Software
+* Open source hardware IDE.
+the open-source IDE can be downloaded for free at https://www.arduino.cc/en/Main/Software
 
 * For more information, see the website at: https://www.arduino.cc/
 or the forums at: https://forum.arduino.cc/  
@@ -39,6 +35,8 @@ Arduino is an open source project, supported by many.
 
 The Arduino team is composed of Massimo Banzi, David Cuartielles, Tom Igoe
 and David A. Mellis.
+
+Twitter: @MEHasnainZafar
 
 Arduino uses
 [GNU avr-gcc toolchain](https://gcc.gnu.org/wiki/avr-gcc),
